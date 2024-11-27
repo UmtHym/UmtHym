@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-umit_hayim-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Profile" height="30" />
   </a>
 </p>
-<img align="right" alt="Forest" width="400" src="https://media1.tenor.com/m/Kbhrp9yN5Y0AAAAd/sleep-nature.gif">
+<img align="right" alt="Forest" width="40%" src="https://media1.tenor.com/m/Kbhrp9yN5Y0AAAAd/sleep-nature.gif">
 
 - 🔭 I’m currently working on **EventTracker**
 - 🌱 I’m currently learning **Python & MySQL**
