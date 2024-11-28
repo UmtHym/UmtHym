@@ -4,10 +4,9 @@
 
 <p>Today, I bring a unique blend of creativity and technical skills to my work, focusing on creating software that's practical and meaningful.</p>
 <br>
-<table>
-<tr>
-<td width="50%" valign="top">
-  
+<table align="center">
+<tr align="center">
+<td align="left" width="50%" valign="top">
 - 🔭 I'm currently working on **EventTracker**
 
 - 🌱 I'm currently learning **Python & MySQL**
@@ -19,7 +18,7 @@
 - 📫 How to reach me **umitbcn@gmail.com**
 
 <h3 align="left">Languages and Tools: </h3>
-<table>
+<table align="center">
 <tbody>
 <tr>
 <td width="50%">
@@ -68,14 +67,14 @@
 </tbody>
 </table>
 </td>
-<td width="50%" valign="top">
-<img align="right" alt="Forest" width="100%" src="https://media1.tenor.com/m/Kbhrp9yN5Y0AAAAd/sleep-nature.gif">
+<td align="center" width="50%" valign="top">
+<img align="center" alt="Forest" width="100%" max-width="100%" src="https://media1.tenor.com/m/Kbhrp9yN5Y0AAAAd/sleep-nature.gif">
 </td>
 </tr>
 </table>
 
 <br><br>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=umthym&show_icons=true&locale=en&theme=dark" alt="umthym" />
+<div align="center">
+<img width="495px" src="https://github-readme-stats.vercel.app/api?username=umthym&show_icons=true&locale=en&theme=dark" alt="umthym" />
 </div>
