@@ -1,6 +1,4 @@
-[![MasterHead](https://i.imgur.com/kx5oZz8.png)](https://github.com/UmtHym)
-
-<h3 align="center">A passionate Full-stack developer in Barcelona</h3>
+<h3 align="center">Hi there , I'm Umit Hayim.</h3>
 
 <p>My career began in advertising, where I worked with diverse clients and projects, gaining insight into how to communicate ideas effectively. Over time, I became increasingly drawn to the tools and technologies that drive creativity and efficiency in the industry. But, overtime, working with outdated and inefficient software in the industry sparked my interest in software engineering. I wanted to create better, more functional tools to address the challenges I encountered firsthand.</p>
 
