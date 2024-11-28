@@ -1,7 +1,7 @@
 <h2 align="center">Hello there, I'm Umit Hayim. Software Engineer at your service!</h2>
 
 
-<p>In advertising, where I'v worked with diverse clients and projects, gaining insight into how to communicate ideas effectively. Over time, I became increasingly drawn to the tools and technologies that drive creativity and efficiency in the industry. But, overtime, working with outdated and inefficient software in the industry sparked my interest in software engineering. I wanted to create better, more functional tools to address the challenges I encountered firsthand.</p>
+<p>In advertising, I'v had the opportunity to work with diverse clients and projects, gaining insight into how to communicate ideas effectively. Over time, I became increasingly drawn to the tools and technologies that drive creativity and efficiency in the industry. But, working with outdated and inefficient software in the industry sparked my interest in software engineering. I wanted to create better, more functional tools to address the challenges I encountered firsthand.</p>
 
 <p>Today, I bring a unique blend of creativity and technical skills to my work, focusing on creating software that’s practical and meaningful.</p>
 <br>
