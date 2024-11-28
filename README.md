@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **EventTracker** coming soon...
 - 🌱 I’m currently learning **Python & MySQL**
-- 👨‍💻 All of my projects are available at [http://umithayim.netlify.app/](http://umithayim.netlify.app/)
-- 💬 Ask me about **anything but mostly MERN Stack**
-- 📫 How to reach me: **umitbcn@gmail.com**
+- 💬 Ask me about **Web Dev, Sports and  Gaming**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Frontend Development</h4>
