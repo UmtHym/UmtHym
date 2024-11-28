@@ -7,6 +7,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+  
 - 🔭 I'm currently working on **EventTracker**
 
 - 🌱 I'm currently learning **Python & MySQL**
