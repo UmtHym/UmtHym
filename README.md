@@ -7,9 +7,13 @@
 <br>
 <img align="right" alt="Forest" width="40%" src="https://media1.tenor.com/m/Kbhrp9yN5Y0AAAAd/sleep-nature.gif">
 
+
 - 🔭 I’m currently working on **EventTracker** coming soon...
+  
 - 🌱 I’m currently learning **Python & MySQL**
+  
 - 💬 Ask me about **Web Dev, Sports and  Gaming**
+  
 - 🥷 I’m looking to collaborate on Open-source Projects.
 
 <h3 align="left">Languages and Tools:</h3>
