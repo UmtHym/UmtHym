@@ -77,7 +77,5 @@
 <br><br>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=umthym&show_icons=true&locale=en&layout=compact&theme=dark" alt="umthym" />
 <img width="70%" src="https://github-readme-stats.vercel.app/api?username=umthym&show_icons=true&locale=en&theme=dark" alt="umthym" />
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=umthym&theme=dark" alt="umthym" />
 </div>
