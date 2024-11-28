@@ -4,7 +4,7 @@
 
 <img align="right" alt="Forest" width="40%" src="https://media1.tenor.com/m/Kbhrp9yN5Y0AAAAd/sleep-nature.gif">
 
-- 🔭 I’m currently working on **EventTracker**
+- 🔭 I’m currently working on **EventTracker** coming soon...
 - 🌱 I’m currently learning **Python & MySQL**
 - 👨‍💻 All of my projects are available at [http://umithayim.netlify.app/](http://umithayim.netlify.app/)
 - 💬 Ask me about **anything but mostly MERN Stack**
