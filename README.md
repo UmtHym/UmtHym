@@ -1,14 +1,7 @@
 [![MasterHead](https://i.imgur.com/kx5oZz8.png)](https://github.com/UmtHym)
 
 <h3 align="center">A passionate Full-stack developer in Barcelona</h3>
-<p align="left"> 
-  <a href="https://x.com/umthym" target="blank">
-    <img src="https://img.shields.io/badge/X-umthym-000000?logo=x&logoColor=white&style=for-the-badge" alt="X Profile" height="30" />
-  </a> 
-  <a href="https://www.linkedin.com/in/umithayim/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-umit_hayim-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Profile" height="30" />
-  </a>
-</p>
+
 <img align="right" alt="Forest" width="40%" src="https://media1.tenor.com/m/Kbhrp9yN5Y0AAAAd/sleep-nature.gif">
 
 - 🔭 I’m currently working on **EventTracker**
