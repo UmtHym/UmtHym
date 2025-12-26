@@ -10,7 +10,7 @@
 <td width="50%" valign="top">
 <br>
   
-- 🔭 I'm currently working on **EventTracker**
+- 🔭 I'm currently working on **EventMaps**
 - 🌱 I'm currently learning **Python & MySQL**
 - 👨‍💻 All of my projects are available at [http://umithayim.netlify.app/](http://umithayim.netlify.app/)
 - 💬 Ask me about **anything but mostly MERN Stack**
