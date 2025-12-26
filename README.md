@@ -12,7 +12,7 @@
   
 - 🔭 I'm currently working on **EventMaps**
 - 🌱 I'm currently learning **Python & MySQL**
-- 👨‍💻 All of my projects are available at [http://umithayim.netlify.app/](http://umithayim.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-2025-one-tan.vercel.app]
 - 💬 Ask me about **anything but mostly MERN Stack**
 - 📫 How to reach me **umitbcn@gmail.com**
 
