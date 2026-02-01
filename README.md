@@ -15,7 +15,7 @@ I build map-based, real-world products where UX actually matters.
 **Frontend:** React, TypeScript, Tailwind CSS, Next.js  
 **Backend:** Node.js, Express, MongoDB, Mongoose  
 **Auth & Infra:** Firebase, OAuth, Vercel  
-**Maps & UX:** Leaflet, Framer Motion
+**Maps & UX:** Mapbox, Leaflet, Framer Motion
 
 ---
 
